@@ -1,0 +1,23 @@
+{
+  "name": "memorymap",
+  "version": "1.0.0",
+  "description": "ARM memory map creation tool",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephendpmurphy/memorymap.git"
+  },
+  "author": "stephendpmurphy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephendpmurphy/memorymap/issues"
+  },
+  "homepage": "https://github.com/stephendpmurphy/memorymap#readme",
+  "devDependencies": {
+    "electron": "^15.2.0",
+    "electron-reloader": "^1.2.1"
+  }
+}

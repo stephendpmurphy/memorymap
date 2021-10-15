@@ -1,0 +1,14 @@
+{
+    "regions":[
+       {
+          "label":"ROM",
+          "start":"0x0000",
+          "end":"0x0050"
+       },
+       {
+          "label":"RAM",
+          "start":"0x0050",
+          "end":"0x0070"
+       }
+    ]
+ }
